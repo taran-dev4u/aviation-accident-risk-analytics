@@ -8,28 +8,34 @@ This project studies aviation accident records as a structured analytics problem
 
 The repository name is direct on purpose: it tells a reviewer that the project is about aviation accidents, risk patterns, and data analytics rather than a vague safety dashboard.
 
-## Problem
+## Project Objective
 
 Aviation crash records usually contain inconsistent dates, locations, operators, aircraft details, and accident descriptions. Before useful safety patterns can be discussed, the dataset has to be cleaned and explored carefully.
 
-## Scope
+## Completed Scope
 
 - Historical aviation accident dataset review
 - Data cleaning and consistency checks
 - Exploratory analysis across time, cause, geography, and incident details
 - Safety-oriented reporting for technical review
 
-## Approach
+## Workflow
 
 - Standardized fields before drawing conclusions
 - Compared accident patterns across long time ranges
 - Focused on readable charts and interpretation instead of raw tables
 - Connected observed trends back to aviation safety context
 
-## Existing Work
+## Deliverables
 
 - IEEE-style aviation accident analysis report
 - Dataset coverage described through historical airplane crash records through 2022
+
+## Repository Contents
+
+- `README.md` - project overview, workflow, deliverables, and skills summary
+- `project-files/masters/aviationData_TaranMamidala_NandaKrishnaSIndam_SaiDineshRachakonda.pdf` - project artifact
+- `project-files/README.md` - manifest of uploaded project materials
 
 ## Contribution
 
@@ -42,14 +48,6 @@ Worked on data preparation, exploratory analysis, trend interpretation, and repo
 - Exploratory data analysis
 - Data visualization
 - Technical reporting
-
-## Next Update
-
-- Add the original analysis notebook or script
-- Add cleaned charts and a short methodology note
-- Document dataset source, assumptions, and limitations
-
-The implementation files are stored separately and will be added after the source folders are reviewed and organized.
 
 ## Topics
 
